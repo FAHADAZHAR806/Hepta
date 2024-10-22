@@ -1,0 +1,14 @@
+body{
+margin: 0px;
+padding: 0px;
+  
+}
+
+.maindiv{
+  background-image: url(images/hero_1.jpeg);
+  width:1700px;
+  height:1300px;
+}
+h2,P,button{
+  text-align: center;
+}
